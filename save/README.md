@@ -1,0 +1,1 @@
+Log records and other files will be saved in this folder
