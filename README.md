@@ -1,7 +1,7 @@
 # FedVul
 
 ## Dataset
-Two vulnerability datasets from these paper: 
+Two vulnerability datasets link: 
 * BigVul: <https://drive.google.com/file/d/1-0VhnHBp9IGh90s2wCNjeCMuy70HPl8X/view?usp=sharing>
 * DiverseVul: <https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view?usp=sharing>
 
