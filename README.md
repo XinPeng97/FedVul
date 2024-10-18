@@ -34,7 +34,3 @@ python Vul_Classification.py --a fedvul_vc --b diverse_graph_vc --m Reveal
 python Vul_Detection.py --a fedvul_vd --b diverse_graph_vd --m Reveal
 ```
 
-## Acknowledgement
---[https://github.com/WwZzz/easyFL](https://github.com/WwZzz/easyFL)
-
-
